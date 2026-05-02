@@ -193,8 +193,8 @@ Visit: http://localhost:8000
 | Admin | admin@example.com | password |
 | Moderator | moderator@example.com | password |
 | User | user@example.com | password |
-| User 2 | jane@example.com | password |
-| User 3 | bob@example.com | password |
+| User 2 | user2@example.com | password |
+| User 3 | user3@example.com | password |
 
 ---
 
